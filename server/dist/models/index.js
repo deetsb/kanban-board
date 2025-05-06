@@ -6,7 +6,7 @@ import { TicketFactory } from './ticket.js';
 const sequelize = process.env.DB_URL
     ? new Sequelize(process.env.DB_URL)
     : new Sequelize(process.env.DB_NAME || '', process.env.DB_USER || '', process.env.DB_PASSWORD, {
-        host: 'localhost',
+        host: 'dpg-d0d5uh9r0fns738382cg-a.oregon-postgres.render.com',
         dialect: 'postgres',
         dialectOptions: {
             decimalNumbers: true,
