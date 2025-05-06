@@ -12,6 +12,7 @@ The purpose of this project was to add authentication with JWT to an existing Ka
 - [Technologies](#technologies)
 - [License](#license)
 - [Links](#links)
+- [Credits](#credits)
 - [Questions](#questions)
 
 ## Technologies
@@ -28,6 +29,9 @@ This project is licensed under the MIT license.
 ## Links
 - [GitHub Repo](https://github.com/deetsb/kanban-board)
 - [Render](https://kanban-board-cdpc.onrender.com)
+
+## Credits
+Tutoring sessions with Benicio Lopez and Ainsley Ellis.
 
 ## Questions
 Should you have questions, please reach me via:
